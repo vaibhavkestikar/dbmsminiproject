@@ -1,0 +1,2 @@
+# dbmsminiproject
+Title: Company Project and Analytics, Objective: To access the information and analytics of various company projects in multiple areas . Details: HTML, CSS and JavaScript was used for front-end designing and MySQL was used to create database and a PHP connection to link the database to the software. Result: The user can efficiently access various details of company project and perform Basic SQL operations .
